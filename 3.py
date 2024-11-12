@@ -101,10 +101,10 @@ chon = int(input('\033[1;31m[\033[1;37m[=.=]\033[1;31m] \033[1;37m=> \033[1;32mC
 
 if chon == 1 :
 
-	exec(requests.get('https://4f0869067c0341028b25ee44cab75b62.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/3.1.py').text)
 
 if chon == 2 :
 
-	exec(requests.get('https://5037b2bd4143496a823fa2755f2945ec.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/3.2.py').text)
 
 	exit()
