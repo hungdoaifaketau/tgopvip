@@ -117,25 +117,25 @@ chon = int(input('\033[1;31m[\033[1;37m[=.=]\033[1;31m] \033[1;37m=> \033[1;32mC
 
 if chon == 1 :
 
-	exec(requests.get('https://a738582eb4ed4df38112753cd8da5a56.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.1.py').text)
 
 if chon == 2 :
 
-	exec(requests.get('https://9ba25774f3e94d5d86e82b39b3f5c114.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.2.py').text)
 if chon == 3 :
 
-	exec(requests.get('https://20cbf6d727d64411933e0e021a8492b5.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.3.py').text)
 
 if chon == 4 :
 
-	exec(requests.get('https://0c57679f6e9c4cab9470884a5023313f.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.4.py').text)
 
 if chon == 5 :
 
-	exec(requests.get('https://345e8b3388d14fbf8e36f82e3cbf41b2.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.5.py').text)
 
 if chon == 6 :
 	
-	exec(requests.get('https://41193416e7d344548ded29a41165fbb2.api.mockbin.io/').text)
+	exec(requests.get('https://raw.githubusercontent.com/hungdoaifaketau/tgopvip/main/1.6.py').text)
 
 	exit()
